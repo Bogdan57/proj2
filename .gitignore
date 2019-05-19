@@ -5,3 +5,5 @@ tmp*_old
 index.html_old
 tmp*_backup
 .DS_Store
+tmp/
+__MACOSX/
